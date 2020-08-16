@@ -2,10 +2,10 @@ const mysql = require('mysql');
 
 const pool = mysql.createPool({
     connectionLimit: 10,
-    password: '',
-    user: 'WWS7',
-    passwd: '',
-    database: 'WWS7',
+    password: 'Hf5Oi7Bnvb',
+    user: 'WWS7Tcr3BK',
+    passwd: 's3kreee7',
+    database: 'WWS7Tcr3BK',
     host: 'remotemysql.com',
     port: '3306'
 })
