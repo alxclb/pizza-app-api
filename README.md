@@ -1,4 +1,4 @@
-# API-yummi-pizza
+# pizza-app-api
 API for yummi pizza web application (Node.js)
 
 ## Built With
